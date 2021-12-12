@@ -13,12 +13,11 @@ I'm David and I'm a Front end Developer with more then 20 years experience. I ha
 > Any sufficiently advanced technology is indistinguishable from magic. -Arthur C. Clarke
 
 ####
-
-<a href="https://www.facebook.com/dsabalete" target="_blank"><img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/dsabalete" target="_blank"><img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/dsabalete/" target="_blank"><img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/dsabalete/" target="_blank"><img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/dsabalete" target="_blank"><img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://www.davidsabalete.com/" target="_blank"><img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/www.png" alt="Website" width="30"></a>
+
 
 ![](https://komarev.com/ghpvc/?username=dsabalete)
